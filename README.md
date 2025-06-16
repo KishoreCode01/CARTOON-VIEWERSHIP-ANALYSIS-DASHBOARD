@@ -1,5 +1,6 @@
 # CARTOON-VIEWERSHIP-ANALYSIS-DASHBOARD
-  A Tableau dashboard analyzing cartoon viewership data to uncover trends in audience demographics, preferences, and platform engagement.
+* A Tableau dashboard analyzing cartoon viewership data to uncover trends in audience demographics, preferences, and platform engagement.
+* The content folder contains tableau and PPT file.
 
 # 🔍 Key Insights:
 👧 Most viewers are under 10; females slightly lead in viewership.
